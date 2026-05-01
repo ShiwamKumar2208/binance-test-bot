@@ -1,0 +1,5 @@
+2026-05-01 - INFO - REQUEST: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-01 - INFO - RESPONSE: {'orderId': 123456, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}
+
+2026-05-01 - INFO - REQUEST: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 80000.0}
+2026-05-01 - INFO - RESPONSE: {'orderId': 123457, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}

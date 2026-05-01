@@ -41,3 +41,10 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 
 * Uses Binance Futures Testnet
 * Logs are saved in `bot.log`
+
+
+## Logs
+
+Sample logs are provided in `logs/sample.log` demonstrating:
+- MARKET order execution
+- LIMIT order execution

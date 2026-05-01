@@ -12,6 +12,7 @@ tests/
 
 # Logs
 *.log
+!logs/sample.log
 
 # OS
 .DS_Store
